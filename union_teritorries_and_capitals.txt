@@ -1,0 +1,10 @@
+Union territories								Capital
+
+Andaman and Nicobar Islands				-		Port Blair
+Chandigarh								-		Chandigarh
+Dadra and Nagar Haveli,Daman & Diu		-		Daman
+Delhi									-		New Delhi
+Lakshadweep								-		Kavaratti
+Pondicherry								-		Puducherry
+Jammu and Kashmir						-		Srinagar (Summer),Jammu (Winter)
+Ladakh									-		Leh
